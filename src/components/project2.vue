@@ -2,7 +2,7 @@
     <div class="container bg-p mt-5">
         <div class="row">
             <div class="col-md-12">
-                <div class="text-center"><h1>predicting-milk-quality-multi-label-classification</h1></div>
+                <div class="text-center"><h1>Prediction-of-the-Success-of-Bank-Telemarketing</h1></div>
             </div>
         </div>
         <div class="row">

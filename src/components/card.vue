@@ -1,9 +1,9 @@
 <template>
     <div class="container bg-c p-5">
         <div class="row">
-            <div class="col-md-12 text-center">
+            <div class="col-md-12 text-start">
                 <div class="text-decoration-underline display-4">
-                <h4 class="display-5">Projects</h4></div>
+                <h1 >Projects</h1></div>
             </div>
         </div>
         <div class="row d-flex justify-content-center">
@@ -23,7 +23,7 @@
                 
             </div>
             <div class="col-md-3 mt-2">
-                <a href="Project2">
+                <a href="/Project2">
                     <div class="card bg-dark ">
                     <chart2></chart2>
                     <div class="card-img-overlay">

@@ -1,12 +1,9 @@
 <template>
     <NavbarCompnentVue :items="myArray"></NavbarCompnentVue>
-  <div class="container">
-
       <Intro id="Intro"></Intro>
       <About id="AboutMe"></About>
       <skill id="Skills"></skill>
       <card id="Projects"></card>
-  </div>
   <footerComponents></footerComponents>
 </template>
   

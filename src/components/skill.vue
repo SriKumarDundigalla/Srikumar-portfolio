@@ -2,43 +2,42 @@
     <div class="container bg-s p-5">
         <div class="row ">
             <div class="col-md-12">
-                <div class="text-center text-decoration-underline">
-                    <h4 class="display-5">Skills</h4>
+                <div class="text-start text-decoration-underline">
+                    <h1>Skills</h1>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-6">
                 <div class="text-start">
 
                     <div class="ms-5">
-                        <h4>Programming Lanugaes</h4>
-                        <div class="text-start pb-2 " style="height: 90px;">
-                            <div class="vr">
-                                <ul class="list-group ms-4">
-                                    <li class="h5">Python</li>
-                                    <li class="h5">R</li>
-                                    <li class="h5">SQL</li>
-                                </ul>
-                            </div>
-                        </div>
+                        <h3>Programming Lanugaes</h3>
+
+                                <ul class="list-group list-group-flush">
+  <li class="list-group-item">Python</li>
+  <li class="list-group-item">R</li>
+  <li class="list-group-item">SQL</li>
+</ul>
+
+                        
                     </div>
 
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-6">
                 <div class="text-start">
-                    <div>
-                        <h4>Tools</h4>
-                        <div class="text-start pb-2" style="height: 90px;">
-                            <div class="vr">
-                                <ul class="list-group ms-4">
-                                    <li class="h5">Tablue</li>
-                                    <li class="h5">PowerbBI</li>
-                                    <li class="h5">JupyterLab</li>
-                                </ul>
-                            </div>
-                        </div>
+
+                    <div class="ms-5">
+                        <h3>Tools</h3>
+
+                                <ul class="list-group list-group-flush">
+  <li class="list-group-item">Tableau</li>
+  <li class="list-group-item">PowerBI</li>
+  <li class="list-group-item">Jupyter Lab</li>
+</ul>
+
+                        
                     </div>
 
                 </div>
@@ -64,6 +63,7 @@ export default {
     background: #dadada;
     color: #000000;
 }
+list-i
 
 .ml-10 {
     margin-left: 50%;
@@ -75,5 +75,7 @@ export default {
 .vr{
     color: rgb(0, 0, 0) !important;
 }
-
+.list-group-item{
+    background: transparent;
+}
 </style>
