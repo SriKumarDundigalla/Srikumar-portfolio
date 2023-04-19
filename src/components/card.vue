@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid bg-c p-5">
         <div class="row">
-            <div class="col text-start">
+            <div class="col text-start mt-5">
                 <div class="text-decoration-underline display-4">
                 <h1 >Projects</h1></div>
             </div>

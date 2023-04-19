@@ -1,7 +1,7 @@
 <template>
-  <div class="container-fluid bg-a">
+  <div class="container-fluid bg-a p-5">
     <div class="row">
-      <div class="col text-start mt-3 ms-3">
+      <div class="col text-start mt-3">
         <div class="text-decoration-underline mt-5">
           <h1>About Me</h1>
         </div>
@@ -9,9 +9,9 @@
     </div>
     <div class="row">
       <div class="col-md-6  text-center">
-        <p class="p-3" style="text-align: justify;">{{ typedText }}</p>
+        <p  style="text-align: justify;">{{ typedText }}</p>
       </div>
-      <div class="col-md-6 text-center">
+      <div class="col-md-6 mt-2 text-center">
         <img class="img-fluid img-s p-2" src="../assets/About-4.jpg">
       </div>
     </div>
