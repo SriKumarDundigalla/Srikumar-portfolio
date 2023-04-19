@@ -1,7 +1,7 @@
 <template>
-    <div class="container bg-s p-5">
+    <div class="container-fluid bg-s p-5">
         <div class="row ">
-            <div class="col-md-12">
+            <div class="col">
                 <div class="text-start text-decoration-underline">
                     <h1>Skills</h1>
                 </div>

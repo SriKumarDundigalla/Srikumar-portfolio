@@ -6,7 +6,7 @@
       <a href="/" class="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
         <div class="bi" width="30" height="24"><use xlink:href="#bootstrap"></use></div>
       </a>
-      <span class="text-muted">© 20213 Sri Kumar Dundigalla</span>
+      <span class="text-muted">© 2023 Sri Kumar Dundigalla</span>
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
