@@ -9,7 +9,7 @@
         <div class="row d-flex justify-content-center">
             <div class="col-md-3 mt-2">
                 <a href="/Project1">
-                    <div class="card bg-dark" >
+                    <div class="card bg-light" >
                     <chart></chart>
                     <div class="card-img-overlay">
                         <div class="element">
@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-3 mt-2">
                 <a href="/Project2">
-                    <div class="card bg-dark ">
+                    <div class="card bg-light ">
                     <chart2></chart2>
                     <div class="card-img-overlay">
                         <div class="element">
@@ -63,9 +63,8 @@ export default {
     name: 'card-component',
     data() {
         return {
-            imageUrl: '../assets/1094289.jpg',
-            title: 'Card Title',
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut posuere aliquet enim, vel pharetra velit lacinia at. Donec vel elit rhoncus, volutpat mi eget, tempor neque. Sed eu lacus sit amet elit dapibus vehicula sed vitae quam. Suspendisse sed vulputate quam.',
+
+            
         }
     },
     components:{
@@ -100,7 +99,7 @@ export default {
 
 .card-img-overlay:hover {
     animation: show 0.3s ease-in forwards;
-    background:rgba(0, 0, 0, 0.5) ;
+    background:rgba(0, 0, 0, 0.7) ;
 
  
 }
