@@ -2,7 +2,7 @@
     <div class="container-fluid bg-s p-5">
         <div class="row ">
             <div class="col">
-                <div class="text-start text-decoration-underline">
+                <div class="text-start">
                     <h1 class="display-5">Skills</h1>
                 </div>
             </div>
@@ -11,8 +11,8 @@
             <div class="col-md-6">
                 <div class="text-start">
 
-                    <div class="ms-5">
-                        <h3>Programming Lanugaes</h3>
+                    <div class="ms-1">
+                        <h3 class="text-secondary">Programming Lanugaes</h3>
 
                                 <ul class="list-group list-group-flush">
   <li class="list-group-item">Python</li>
@@ -28,8 +28,8 @@
             <div class="col-md-6">
                 <div class="text-start">
 
-                    <div class="ms-5">
-                        <h3>Tools</h3>
+                    <div class="ms-2">
+                        <h3 class="text-secondary">Tools</h3>
 
                                 <ul class="list-group list-group-flush">
   <li class="list-group-item">Tableau</li>

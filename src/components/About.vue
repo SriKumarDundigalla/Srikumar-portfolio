@@ -2,7 +2,7 @@
   <div class="container-fluid bg-a p-5">
     <div class="row">
       <div class="col text-start mt-3">
-        <div class="text-decoration-underline mt-5">
+        <div class=" mt-5">
           <h1 class="display-5">About Me</h1>
         </div>
       </div>

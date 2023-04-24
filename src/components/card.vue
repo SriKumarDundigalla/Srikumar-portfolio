@@ -2,12 +2,12 @@
     <div class="container-fluid bg-c p-5">
         <div class="row">
             <div class="col text-start mt-5">
-                <div class="text-decoration-underline display-4">
+                <div>
                 <h1 class="display-5">Projects</h1></div>
             </div>
         </div>
-        <div class="row d-flex justify-content-center">
-            <div class="col-md-3 mt-2">
+        <div class="row ">
+            <div class="col-md-4 mt-2">
                 <a href="/Project1">
                     <div class="card bg-light" >
                     <chart></chart>
@@ -22,7 +22,7 @@
                 </a>
                 
             </div>
-            <div class="col-md-3 mt-2">
+            <div class="col-md-4 mt-2">
                 <a href="/Project2">
                     <div class="card bg-light ">
                     <chart2></chart2>
@@ -37,7 +37,7 @@
                 </a>
                 
             </div>
-            <div class="col-md-3 mt-2">
+            <div class="col-md-4 mt-2">
                 <a href="/Project3">
                     <div class="card text-dark">
                     <img src="../assets/r-1.png" class="card-img" alt="...">
