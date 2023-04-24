@@ -3,7 +3,7 @@
         <div class="row ">
             <div class="col">
                 <div class="text-start text-decoration-underline">
-                    <h1>Skills</h1>
+                    <h1 class="display-5">Skills</h1>
                 </div>
             </div>
         </div>

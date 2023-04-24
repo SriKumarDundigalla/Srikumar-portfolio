@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col text-start mt-5">
                 <div class="text-decoration-underline display-4">
-                <h1 >Projects</h1></div>
+                <h1 class="display-5">Projects</h1></div>
             </div>
         </div>
         <div class="row d-flex justify-content-center">

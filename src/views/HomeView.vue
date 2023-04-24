@@ -22,7 +22,7 @@ export default {
   },
   data() {
       return {
-          myArray: ['#Intro','#About Me', '#Skills','#Projects','/Blog']
+          myArray: ['#Intro','#About Me', '#Skills','#Projects','#Contact Me','/Blog','/Resume']
       }
   }
 }

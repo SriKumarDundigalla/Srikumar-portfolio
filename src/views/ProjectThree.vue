@@ -16,7 +16,7 @@
     },
     data() {
         return {
-            myArray: ['/','/Blog']
+            myArray: ['/','#Contact Me','/Blog','/Resume']
         }
     }
   }
